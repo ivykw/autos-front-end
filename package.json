@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ivykw/autos-front-end/issues"
   },
-  "homepage": "https://github.com/ivykw/autos-front-end#readme"
+  "homepage": "https://github.com/ivykw/autos-front-end#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "react": "^18.2.0"
+  }
 }
